@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{index.html}
 
 ~~~
-{}{img_left}{mugshot.jpg}{alt text}{243}{274}
+{}{img_left}{bodyshot.jpg}{}{300}{}
 == Dara Bahri
 Google Research\n
 Work: (d)(last name)@google.com\n
