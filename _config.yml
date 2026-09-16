@@ -1,0 +1,7 @@
+title: Dara Bahri
+description: dbahri123[at]gmail.com
+logo: /headshot.jpg
+remote_theme: pages-themes/minimal@v0.2.0
+google_analytics: G-6JC1562538
+plugins:
+- jekyll-remote-theme
