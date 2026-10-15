@@ -8,3 +8,5 @@ Before joining Google, I built recommender systems at Twitter (2016–2018), whe
 I graduated from UC Berkeley in 2013 with degrees in Mathematics and Electrical Engineering and Computer Science (EECS).
 
 A proud Californian, I live in the San Francisco Bay Area. Among other things, I enjoy trail running, mountaineering, classical music, gardening, painting, and fun drives. I am curious about many things, deeply humbled and inspired by nature, and I will rarely turn down an adventure or an opportunity to learn something new. Do not hesitate to reach out.
+
+<b>Email</b>: dbahri123[at]gmail.com
